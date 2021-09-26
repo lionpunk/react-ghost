@@ -10,7 +10,7 @@
 
 ## ⚡ Technologies
 
-# Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,7 +25,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 
-# Backend
+### Backend
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
