@@ -1,6 +1,5 @@
 # Hi 👋, I'm Micro
 
-- 🎓 Currently Pursuing CS Degree
 
 - 🌐 Full Stack Web Development
 
